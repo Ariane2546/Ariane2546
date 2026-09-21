@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariane2546
 - 👀 I work as a Software Quality Engineer.
-- 🌱 I’m currently learning to program
+- 🌱 I am currently delving deeper into programming.
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me on email ariane.etec.inf@gmail.com
 
