@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ariane2546
-- 👀 I’m interested in be an IT Professional
+- 👀 I work as a Software Quality Engineer.
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me on email ariane.etec.inf@gmail.com
